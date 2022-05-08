@@ -1,0 +1,1 @@
+import{_ as t,o,c as r,b as n,t as e,a as l}from"./entry-38f6dc11.mjs";const c={data(){return{message:"Hello Vue!"}},mounted(){console.log(this.$route)}};function i(a,u,d,p,s,_){return o(),r("div",null,[n(e(s.message)+" ",1),l("h2",null,"Playlist "+e(a.$route.params.id),1)])}var f=t(c,[["render",i]]);export{f as default};

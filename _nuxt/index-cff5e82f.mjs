@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a}from"./entry-38f6dc11.mjs";const n={name:"IndexPage"},s=a("h1",null,"Hello to world",-1),c=[s];function r(_,l,d,i,p,f){return o(),t("main",null,c)}var u=e(n,[["render",r]]);export{u as default};

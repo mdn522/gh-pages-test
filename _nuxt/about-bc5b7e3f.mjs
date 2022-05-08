@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a}from"./entry-38f6dc11.mjs";const s={name:"AboutPage"},n=a("h1",null,"About My World",-1),c=[n];function r(_,l,u,d,p,i){return o(),t("main",null,c)}var m=e(s,[["render",r]]);export{m as default};
